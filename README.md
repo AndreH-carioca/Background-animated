@@ -5,3 +5,10 @@
 - HTML 5
 - CSS 3
 
+
+# Navegador
+
+- Chrome
+- Edge
+- FireFox
+- Opera
