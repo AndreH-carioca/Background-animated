@@ -6,7 +6,7 @@
 - CSS 3
 
 
-# Navegador
+# Navegadores
 
 - Chrome
 - Edge
