@@ -1,13 +1,17 @@
-# background-animated
+<h1 align="center"> Background - Animated (Animação no Background) </h1>
 
-    Fundo animado desenvolvido nas tecnologias:
+<br>
 
-- HTML 5
-- CSS 3
+## 🚀 Tecnologias
 
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-# Navegadores
+- HTML e CSS
+- JavaScript
+- Git e Github
 
-- Chrome
-- Edge
-- Opera GX
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+Projeto desenvolvido por André Higino Carioca 🧑‍💻 💚
